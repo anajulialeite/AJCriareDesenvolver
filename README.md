@@ -84,11 +84,10 @@ Foco total em conversão.
 ## Contato
 
 📲 WhatsApp:  
-https://api.whatsapp.com/
+https://wa.me/5561996773513
 
 📸 Instagram:  
-https://www.instagram.com/
-
+https://www.instagram.com/ajcriaredesenvolver/
 ---
 
 ## Filosofia

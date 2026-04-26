@@ -87,7 +87,7 @@ Foco total em conversão.
 https://wa.me/5561996773513
 
 📸 Instagram:  
-https://www.instagram.com/ajcraredesenvolver/
+https://www.instagram.com/ajcriaredesenvolver/
 ---
 
 ## Filosofia

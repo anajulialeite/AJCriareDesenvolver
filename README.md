@@ -1,29 +1,109 @@
-# Meu Portifólio
+# AJ — Criar e Desenvolver
 
-<img src="assets/img/logo_new.png" alt="Logo" align="left" width="170">
+Desenvolvimento de sites profissionais focados em **gerar resultados reais para pequenos negócios**.
 
-Este é o meu portifólio pessoal e profissional que estarei compartilhando no meu Linkedin. Este é mais um projeto para mostrar um pouco mais do meu trabalho. Entre em contato que também faço o seu!
+🌐 Acesse o site:  
+👉 https://anajulialeite.github.io/AJCriareDesenvolver/
 
-<a href="https://wa.me/+55061996773513" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/WhatsApp-%231C003F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
+---
 
-O site foi totalmente construído com a linguagem de marcação HTML5, com folhas de estilização no CSS3 e com alguns efeitos de animação feitos em JavaScrip.
- 
-Usei o validador de HTML para construir o meu portifólio e todas as páginas de forma válidas por ele.
+## Sobre o projeto
 
-## Demonstração
+A AJ — Criar e Desenvolver é uma solução especializada na criação de sites modernos, responsivos e estratégicos, com foco em:
 
-<img src="assets/img/Demonstração.png" align="center" width="300"/>
+- Aumentar a presença digital
+- Gerar mais clientes
+- Converter visitantes em vendas
 
-## Links úteis
+Cada projeto é pensado para **funcionar como uma ferramenta de vendas**, não apenas como um site bonito.
 
-<a href="https://anajulialeite.github.io/AJCriareDesenvolver/" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/Portfólio-%239C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
-</a>
-<br></br>
-Link do <a href= "https://validator.w3.org/">Validador</a>
+---
 
-## License
+## Serviços oferecidos
 
-[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
+### Site Institucional
+Ideal para empresas que querem presença profissional online.
+
+- Design personalizado  
+- 100% responsivo  
+- Otimizado para SEO  
+
+---
+
+### 🍔 Cardápio Online
+Perfeito para restaurantes e delivery.
+
+- Cardápio digital com fotos  
+- Integração com WhatsApp  
+- Fácil atualização  
+
+---
+
+### 🎯 Landing Page
+Foco total em conversão.
+
+- Estrutura estratégica  
+- Carregamento rápido  
+- Call-to-action otimizado  
+
+---
+
+## Resultados reais
+
+✔️ +40% de aumento em pedidos (restaurante)  
+✔️ Dobro de faturamento em 3 meses (lanchonete)  
+✔️ Aplicações rápidas e responsivas  
+
+---
+
+## Diferenciais
+
+- 🚀 Entrega em até 15 dias  
+- 📱 100% responsivo  
+- 🎯 Foco em conversão  
+- 🤝 Suporte após entrega  
+
+---
+
+## Tecnologias
+
+### Front-end
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+### Back-end
+- C#
+- .NET
+- SQL Server
+- APIs REST
+
+---
+
+## Contato
+
+📲 WhatsApp:  
+https://api.whatsapp.com/
+
+📸 Instagram:  
+https://www.instagram.com/
+
+---
+
+## Filosofia
+
+> "Um site não é apenas presença online.  
+> É uma máquina de gerar clientes."
+
+---
+
+## Sobre a desenvolvedora
+
+Desenvolvedora Full Stack focada em criar soluções completas, modernas e eficientes, com atenção total à experiência do usuário e aos resultados do cliente.
+
+---
+
+## Status do projeto
+
+🚀 Ativo e em constante evolução

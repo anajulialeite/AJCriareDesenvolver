@@ -18,7 +18,7 @@ Usei o validador de HTML para construir o meu portifólio e todas as páginas de
 
 ## Links úteis
 
-<a href="https://anajulialeite.github.io/Meu_Portifolio/" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+<a href="https://anajulialeite.github.io/AJCriareDesenvolver/" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/Portfólio-%239C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
 </a>
 <br></br>

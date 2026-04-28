@@ -209,3 +209,43 @@ if (statsBar) statsObserver.observe(statsBar);
    ============================================ */
 const yearEl = document.getElementById('currentYear');
 if (yearEl) yearEl.textContent = new Date().getFullYear();
+
+
+/* ============================================
+   VIDEO MODAL
+   ============================================ */
+const videoModal = document.getElementById('videoModal');
+const videoPlayer = document.getElementById('videoPlayer');
+const openBtn = document.getElementById('openVideoModal');
+const closeBtn = document.getElementById('closeVideoModal');
+
+if (openBtn && videoModal && videoPlayer && closeBtn) {
+    openBtn.addEventListener('click', () => {
+        videoModal.classList.add('active');
+        videoModal.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+        videoPlayer.play();
+    });
+
+    function closeVideoModal() {
+        videoModal.classList.remove('active');
+        videoModal.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
+        videoPlayer.pause();
+        videoPlayer.currentTime = 0;
+    }
+
+    closeBtn.addEventListener('click', closeVideoModal);
+
+    videoModal.addEventListener('click', (e) => {
+        if (e.target === videoModal) {
+            closeVideoModal();
+        }
+    });
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && videoModal.classList.contains('active')) {
+            closeVideoModal();
+        }
+    });
+}

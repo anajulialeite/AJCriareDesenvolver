@@ -318,11 +318,10 @@
                 <div class="case-study-card reveal-up">
                     <div class="case-study-image">
                         <img src="assets/img/projects/LanchesMac.png" alt="Site Institucional" loading="lazy">
-                        <a href="https://github.com/anajulialeite/ASP-.NET-MVC" target="_blank"
-                            class="case-study-link">
-                            <i class="fas fa-external-link-alt"></i>
-                            <span data-pt="Ver projeto" data-en="View project">Ver projeto</span>
-                        </a>
+                        <button type="button" class="case-study-link" id="openVideoModal" aria-label="Assistir vídeo do projeto">
+                            <i class="fas fa-play-circle" style="font-size:1.6rem"></i>
+                            <span data-pt="Assistir vídeo" data-en="Watch video">Assistir vídeo</span>
+                        </button>
                     </div>
                     <div class="case-study-content">
                         <span class="case-study-tag" data-pt="Site Institucional" data-en="Business Website">Site
@@ -694,6 +693,17 @@
         target="_blank" class="whatsapp-float" aria-label="WhatsApp">
         <i class="fab fa-whatsapp"></i>
     </a>
+
+    <!-- VIDEO MODAL -->
+    <div class="video-modal-overlay" id="videoModal" aria-hidden="true">
+        <div class="video-modal">
+            <button class="video-modal-close" id="closeVideoModal" aria-label="Fechar vídeo">&times;</button>
+            <video id="videoPlayer" controls preload="metadata" playsinline>
+                <source src="assets/img/- LanchesMac - Google Chrome 2026-04-26 22-26-18.mp4" type="video/mp4">
+                Seu navegador não suporta vídeos.
+            </video>
+        </div>
+    </div>
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-292T38DGZE"></script>
